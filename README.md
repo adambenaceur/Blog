@@ -1,0 +1,2 @@
+# Blog
+adambenaceur.com/blog
